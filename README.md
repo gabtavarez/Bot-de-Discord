@@ -1,4 +1,4 @@
-# 🤖 Bot de Discord — Gabriel Tavarez
+# 🤖 Bot de Discord
 
 Um bot de Discord completo, feito com foco em aprendizado de programação com Python.  
 Inclui comandos *slash*, mensagens automáticas, botões interativos, sistema de ticket e muito mais.
